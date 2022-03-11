@@ -6,9 +6,9 @@ For example, for the number 21, the program should write in the console the numb
 Get the data from the user in the console using the Scanner class.
 */
 
-
 import java.util.Scanner;
 
+//program will print all number divisors
 public class Task10 {
     //MAIN
     public static void main(String[] args) {

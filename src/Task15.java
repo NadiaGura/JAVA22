@@ -40,6 +40,6 @@ public class Task15 {
 
         while (matcher.find()){
             System.out.println(matcher.group());
+            }
         }
         }
-    }

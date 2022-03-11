@@ -45,7 +45,7 @@ public class Task12 {
             System.out.println(j + 1 + " - " + Math.abs(arr[j]));
     }
 
-
+  //MAIN
     public static void main(String[] args) {
         //declaring and initializing an Array
         Task12 countOccurences = new Task12();
