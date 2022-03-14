@@ -18,7 +18,16 @@ public class Task16 {
         String inputText = sc.nextLine(); // using nextLine as user might input text
 
         //CREATING INVERSION USING STRING BUILDER CLASS
-        StringBuilder inversedString = new StringBuilder(inputText); // using StringBuilder as this class objects (Strings) can be modified
-        System.out.println(inversedString.reverse()); // using reverse() method to invert a String
+//        StringBuilder inversedString = new StringBuilder(inputText); // using StringBuilder as this class objects (Strings) can be modified
+//        System.out.println(inversedString.reverse()); // using reverse() method to invert a String
+
+        //CREATING INVERSION USING FOR LOOP ITERATION
+        String invertedString = "";
+        for (int i = inputText.length() - 1; i>=0; i--){ //iterating thorugh the lenght of the String
+            invertedString = invertedString + inputText.charAt(i); // adding each letter(char)
+        }
+        System.out.println("Your word spelled backwards is - " + invertedString);
     }
 }
+
+
