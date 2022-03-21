@@ -33,6 +33,21 @@ public class HW18_03_Arrays {
             arrInts[i] = input.nextInt();
 
         }
+
+        //1ST SOLUTION
+
+        Arrays.sort(arrInts); // sorting and Array in ascending order
+        System.out.println(Arrays.toString(arrInts));
+        //multiply largest numbers
+        System.out.println("Multiplication result : " + arrInts[arrInts.length -1] * arrInts[arrInts.length -2]);
+
+
+
+
+/*
+        //2ND SOLUTION
+
+
         //CHECK FOR LARGEST AND SECOND LARGEST NUMBERS
         int largest1 = arrInts[0];
         int largest2 = arrInts[1];
@@ -61,6 +76,8 @@ public class HW18_03_Arrays {
 
         //MAXIMUM PRODUCT OF TWO INTEGERS
         System.out.println("Maximum product : " + largest1 * largest2);
+
+ */
     }
 }
 
