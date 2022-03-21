@@ -13,7 +13,6 @@ import java.util.Scanner;
 //program will take an input from user as an Array of Ints. Will identify two max numbers and will print out multiply result.
 public class HW18_03_Arrays {
 
-
     //MAIN
     public static void main(String[] args) {
 
