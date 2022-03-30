@@ -20,7 +20,6 @@ public class CW28_03_Methods {
                 countC++;
             }
         }
-
         System.out.println("Number of consonants in the String : " + countC);
         System.out.println("Number of consonants in the String : " + countV);
 
