@@ -44,6 +44,7 @@ public class Company {
         }
     }
 
+
     //METHOD TO APPLY HOURLY RATE BASED ON THE DEPARTMENT WITH CALCULATION OF THE WEEKLY 40 HOUR SALARY
     public void calculateSalary() {
         float hourlyRate = 0;

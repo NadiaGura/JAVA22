@@ -2,6 +2,7 @@ package person;
 
 public class Person {
 
+
     //define properties or attributes of a person
     private String name;
     private int age;

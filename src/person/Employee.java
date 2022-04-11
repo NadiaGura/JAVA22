@@ -10,7 +10,6 @@ public class Employee extends Person {
         this.companyID = companyID;
         this.companyName = companyName;
     }
-
     public String getCompanyID() {
         return companyID;
     }
