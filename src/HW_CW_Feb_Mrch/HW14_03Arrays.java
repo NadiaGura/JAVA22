@@ -1,13 +1,13 @@
-/*
-Task1 -  Write a program that receives some numbers based on the user’s choice and then returns the largest number of the ones the user entered.
+package HW_CW_Feb_Mrch;/*
+Tasks.Task1 -  Write a program that receives some numbers based on the user’s choice and then returns the largest number of the ones the user entered.
 
-Task2 -  Write a program that accepts a String from the user and returns an array of integers representing the counts of each vowel in the String.
+Tasks.Task2 -  Write a program that accepts a String from the user and returns an array of integers representing the counts of each vowel in the String.
 The array returned by your method should hold 5 elements: the first is the count of As, the second is the count of Es, the third Is, the fourth Os, and the fifth Us.
 */
 import java.util.Arrays;
 import java.util.Scanner;
 
-//Task1 - program will receive an int as a user input and will return the largest number entered.
+//Tasks.Task1 - program will receive an int as a user input and will return the largest number entered.
 
 public class HW14_03Arrays {
 
@@ -51,7 +51,7 @@ import java.util.Scanner;
 
 //TASK2 - Program will Ask for user input as a String, count all vowels in String -> will store them in an Array -> will print vowel count.
 
-public class HW14_03Arrays {
+public class HW_CW_Feb_Mrch.HW14_03Arrays {
 
     //MAIN
     public static void main(String[] args) {

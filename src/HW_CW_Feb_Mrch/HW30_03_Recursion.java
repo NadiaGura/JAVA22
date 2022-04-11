@@ -1,3 +1,4 @@
+package HW_CW_Feb_Mrch;
 
 import java.util.Scanner;
 
@@ -26,7 +27,6 @@ public class HW30_03_Recursion {
 
     }
 
-
     //MAIN
 
     public static void main(String[] args) {
@@ -54,7 +54,7 @@ public class HW30_03_Recursion {
 
 import java.util.Scanner;
 
-public class HW30_03_Recursion {
+public class HW_CW_Feb_Mrch.HW30_03_Recursion {
 
     //METHOD TO REVERSE STRING USING RECURSION
 

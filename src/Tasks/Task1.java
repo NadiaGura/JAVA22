@@ -1,4 +1,4 @@
-/*
+package Tasks;/*
 Exercise 1
 
 Write a program that, based on the variables: height - height (int) and weight - weight (float), checks whether a person can ride a roller coaster.

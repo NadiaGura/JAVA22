@@ -1,18 +1,18 @@
-/*
-Task1 - You're given a string of words from the user.
+package HW_CW_Feb_Mrch;/*
+Tasks.Task1 - You're given a string of words from the user.
 You need to find the word "Nemo", and return a string like this: "I found Nemo at [the order of the word you find Nemo]!".
 If you can't find Nemo, return "I can't find Nemo :(".
 
-Task2 - Create a program that takes an array and returns the difference between the biggest and smallest numbers.
+Tasks.Task2 - Create a program that takes an array and returns the difference between the biggest and smallest numbers.
 
-Task3 - Create a program that takes an array of Strings
+Tasks.Task3 - Create a program that takes an array of Strings
 (You can initialise the variable without user input) and checks if the last item matches the rest of the array concatenated together.
 For example,  ["i", "love", "tesh", "ilovetesh"] will return true.
  */
 
 
 
-//Task1 - program will request String input from a user. If String will contain "Nemo" -> print out "I found Nemo at [the order of the word you find Nemo]!".
+//Tasks.Task1 - program will request String input from a user. If String will contain "Nemo" -> print out "I found Nemo at [the order of the word you find Nemo]!".
 //If "Nemo" is not found -> print out "I can't find Nemo :(".
 
 import java.util.Scanner;
@@ -39,12 +39,12 @@ public class HW16_03 {
 
 /*
 
-//Task2 - program will take an array from user and will return the difference between the biggest and smallest numbers.
+//Tasks.Task2 - program will take an array from user and will return the difference between the biggest and smallest numbers.
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class HW16_03 {
+public class HW_CW_Feb_Mrch.HW16_03 {
     //MAIN
     public static void main(String[] args) {
 
@@ -85,14 +85,14 @@ public class HW16_03 {
 
 /*
 
-//Task3 - Create a program that takes an array of Strings
+//Tasks.Task3 - Create a program that takes an array of Strings
 //(You can initialise the variable without user input) and checks if the last item matches the rest of the array concatenated together.
 //For example,  ["i", "love", "tesh", "ilovetesh"] will return true.
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class HW16_03 {
+public class HW_CW_Feb_Mrch.HW16_03 {
 
     //MAIN
     public static void main(String[] args) {

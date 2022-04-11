@@ -1,4 +1,4 @@
-
+package HW_CW_Feb_Mrch;
 //TASK1 - write a method that takes in a string and returns the number of consonants in the String.
 //Input should be from the user.
 
@@ -51,7 +51,7 @@ public class CW28_03_Methods {
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class CW28_03_Methods {
+public class HW_CW_Feb_Mrch.CW28_03_Methods {
 
     //METHOD FOR RETURNING MAX NUMBER IN AN ARRAY
 
@@ -101,7 +101,7 @@ public class CW28_03_Methods {
 
 import java.util.Scanner;
 
-public class CW28_03_Methods {
+public class HW_CW_Feb_Mrch.CW28_03_Methods {
 
     //METHOD TO RETURN A DOUBLE RESULT ON INPUT NUMBERS
 

@@ -1,5 +1,5 @@
-
-//Task1 - Ask for int as a user input. Store and print numbers in a range that even numbers will be stored and displayed first and then odd numbers.
+package HW_CW_Feb_Mrch;
+//Tasks.Task1 - Ask for int as a user input. Store and print numbers in a range that even numbers will be stored and displayed first and then odd numbers.
 
 import java.util.Arrays;
 import java.util.Scanner;

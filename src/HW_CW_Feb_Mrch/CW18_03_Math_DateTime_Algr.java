@@ -1,8 +1,8 @@
-//MATH
-//Task1 - program will take base and height from user as an input and will calculate the area of triangle(0.5 * base * height)
+package HW_CW_Feb_Mrch;//MATH
+//Tasks.Task1 - program will take base and height from user as an input and will calculate the area of triangle(0.5 * base * height)
 
 
-//public class CW18_03_Math_DateTime_Algr {
+//public class HW_CW_Feb_Mrch.CW18_03_Math_DateTime_Algr {
 //
 //    //MAIN
 //    public static void main(String[]args){
@@ -65,7 +65,7 @@ public class CW18_03_Math_DateTime_Algr {
 /*
 import java.util.Arrays;
 
-public class CW18_03_Math_DateTime_Algr {
+public class HW_CW_Feb_Mrch.CW18_03_Math_DateTime_Algr {
 
     //MAIN
     public static void main(String[] args) {

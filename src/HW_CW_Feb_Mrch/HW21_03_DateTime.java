@@ -1,3 +1,5 @@
+package HW_CW_Feb_Mrch;
+
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Scanner;
@@ -45,7 +47,7 @@ import java.util.Scanner;
 
 //TASK2 - Write a Java program to calculate the difference between two dates in days.
 
-public class HW21_03_DateTime {
+public class HW_CW_Feb_Mrch.HW21_03_DateTime {
 
     //MAIN
     public static void main(String[] args) {

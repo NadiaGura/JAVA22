@@ -1,4 +1,4 @@
-
+package HW_CW_Feb_Mrch;
 //TASK1 - program will calculate users age based on the date of birth entered by the user
 
 import java.time.LocalDate;
@@ -34,7 +34,7 @@ import java.time.LocalDate;
 import java.util.Scanner;
 import static java.time.temporal.ChronoUnit.DAYS;
 
-public class CW23_03_DateTime {
+public class HW_CW_Feb_Mrch.CW23_03_DateTime {
 
     //MAIN
     public static void main(String[] args) {

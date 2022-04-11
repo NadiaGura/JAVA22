@@ -1,4 +1,4 @@
-
+package HW_CW_Feb_Mrch;
 //TASK1 - method compares two Strings as passwords and compares them on equality (returns boolean)
 
 import java.util.Scanner;
@@ -41,7 +41,7 @@ public class CW30_03_Methods {
 
 import java.util.Scanner;
 
-public class CW30_03_Methods {
+public class HW_CW_Feb_Mrch.CW30_03_Methods {
 
     //METHOD TO CALCULATE SIMPLE INTEREST
 
@@ -77,7 +77,7 @@ public class CW30_03_Methods {
 
 import java.util.Scanner;
 
-public class CW30_03_Methods {
+public class HW_CW_Feb_Mrch.CW30_03_Methods {
 
     //METHOD TO IDENTIFY PRIME NUMBER
 

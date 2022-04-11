@@ -1,8 +1,8 @@
-//HW Tasks from 9th March 2022 Lesson.
+package HW_CW_Feb_Mrch;//HW Tasks from 9th March 2022 Lesson.
 
-//Task1        Write a program that returns true interactively, if a user enters a string containing any of these characters: 'u', 'w', '6', 'i', 'b', 'q'
-//Task2        Write a program that accepts a String from a user and prints an interactive response telling the user if the word is the same when spelt backwards. For example, bread when spelt backwards is daerb, which isn't quite the same.
-//Task3        Write a program that accepts any of the primary colors as a String and returns the complimentary color of that color to the user.
+//Tasks.Task1        Write a program that returns true interactively, if a user enters a string containing any of these characters: 'u', 'w', '6', 'i', 'b', 'q'
+//Tasks.Task2        Write a program that accepts a String from a user and prints an interactive response telling the user if the word is the same when spelt backwards. For example, bread when spelt backwards is daerb, which isn't quite the same.
+//Tasks.Task3        Write a program that accepts any of the primary colors as a String and returns the complimentary color of that color to the user.
 
 
 //TASK1 program that returns true interactively, if a user enters a string containing any of these characters: 'u', 'w', '6', 'i', 'b', 'q'
@@ -43,11 +43,11 @@ public class HW09_03 {
 
 
 /*
-//Task2        Write a program that accepts a String from a user and prints an interactive response telling the user if the word is the same when spelt backwards.
+//Tasks.Task2        Write a program that accepts a String from a user and prints an interactive response telling the user if the word is the same when spelt backwards.
 // For example, bread when spelt backwards is daerb, which isn't quite the same.
 import java.util.Scanner;
 
-public class HW09_03 {
+public class HW_CW_Feb_Mrch.HW09_03 {
 
     //MAIN
     public static void main(String[] args) {
@@ -79,9 +79,9 @@ public class HW09_03 {
 /*
 import java.util.Scanner;
 
-//Task3  program that accepts any of the primary colors as a String and returns the complimentary color of that color to the user.
+//Tasks.Task3  program that accepts any of the primary colors as a String and returns the complimentary color of that color to the user.
 
-public class HW09_03 {
+public class HW_CW_Feb_Mrch.HW09_03 {
 
     //MAIN
     public static void main(String[] args) {

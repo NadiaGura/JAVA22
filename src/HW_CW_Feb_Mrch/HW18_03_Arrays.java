@@ -1,4 +1,4 @@
-
+package HW_CW_Feb_Mrch;
 //TASK1 - Write a Java program to find maximum product of two integers in a given array of integers.
 //Example:
 //
@@ -99,7 +99,7 @@ public class HW18_03_Arrays {
 
 import java.util.Scanner;
 
-public class HW18_03_Arrays {
+public class HW_CW_Feb_Mrch.HW18_03_Arrays {
 
     //MAIN
     public static void main(String[] args) {
